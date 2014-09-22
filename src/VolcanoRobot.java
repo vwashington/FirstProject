@@ -5,6 +5,7 @@ public class VolcanoRobot {
 //Creating VolcanoRobot Class
 //Testing JR Can you see this
 		//Jr blackguy is awesome we LURNIN CODE TOGETHER FINALLY
+		//gustavo already knows this stuff
 	}
 
 }
